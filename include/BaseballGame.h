@@ -21,5 +21,5 @@ private:
     string userNumberString;
     int numOfStrike;
     int numOfBall;
-    bool isGameDone;
+    bool m_isGameDone;
 };
